@@ -1,41 +1,125 @@
-# Canvas Final Project
+# Canvas Final Project: Real Estate Investment Analysis
 
-I am a real estate investor and would like to invest 12M dollars in the real estate market. I am particularly interested in single family homes or rental apartments unless you recommend other types of real estate which may return maximum profits. My interest is to buy properties, do the upgrades and then rent the properties, however I am also interested in blooming markets where if needed, I can sell the properties quickly. What part of the country should I invest in to receive maximum gains.
+Welcome to the **Canvas Final Project**, where we analyze the real estate market to help make informed investment decisions. This project involves data-driven insights and visualizations to assist a real estate investor in strategically allocating $12M in the U.S. housing market. 
 
-Questions (listed below)
+---
 
-I like visuals thus show me many plots, charts, and graphs. (Bonus points) 20 Points
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Research Questions](#research-questions)
+- [Data Sources](#data-sources)
+- [Visualizations and Deliverables](#visualizations-and-deliverables)
+- [Team Contributions](#team-contributions)
+- [Setup Instructions](#setup-instructions)
+- [Final Submission](#final-submission)
+- [Additional Resources](#additional-resources)
 
-Video presentation (Everyone must participate in the video and identify what part they worked on including the coding) 20 Points
+---
 
-# Link to Final Project on Canvas
-https://stthomas.instructure.com/courses/73679/assignments/1044849?module_item_id=3224639
+## Project Overview
 
-# Housing Data
-https://www.zillow.com/research/data/
+Our objective is to recommend optimal real estate investment strategies by leveraging U.S. housing market trends. The analysis focuses on single-family homes and rental apartments while exploring other opportunities that maximize profit. This project incorporates:
 
-### Divvied Qustions
-- Matt - Question 1 & 3
-- Cristian - Question 2
-- Tracy - Question 4
-- David - Question 5
-- Soad - Question 6
+- Market trend analysis
+- Return on investment (ROI) calculations
+- Recommendations for investments in blooming markets for quick resale or rental opportunities
+- Visualizations (charts, graphs) for data-driven insights
+- Video presentations showcasing team contributions
 
+---
 
-1. Show me the market trends to help me decide. Which US real-estate market is doing best overall. 10 points
- 
-2. Are the sale prices and inventory listing going up or down overall in the US? 10 points
- 
-3. Should I wait to invest or should I invest now and if so then where should I invest. (You could recommend more than one place)? 10 points
- 
-4. How long some of the real-estate stays on the market before they rent or sell? 10 points
- 
-5. How much average profit I could expect from my investments in terms of sale (% dollars) after paying mortgage. Calculate my ~ROI. 10 Points
- 
-6. How much average monthly income I could expect from my investments in terms of lease/rent after upgrading properties, paying mortgage, and paying taxes. Calculate my ~ROI. 10 Points
+## Research Questions
 
-You can use data from US Housing Market Trends from Zillow Data at Housing Data - Zillow ResearchLinks to an external site.Links to an external site.
+We aim to answer these key questions:
 
-You are required to work in a group setting and perform similar steps and submit similar artifacts as the earlier projects that your team turned in.  Use Jupyter Notebooks for your project and use Markdown for presentation purposes. Clearly show your working code as well as any needed graphics.
+1. **Market Trends:** Which U.S. real estate markets are performing best overall? *(10 points)*
+2. **Sales and Inventory:** Are sale prices and inventory listings increasing or decreasing nationwide? *(10 points)*
+3. **Investment Timing:** Should the investor wait or act now? If acting now, where should investments be made? *(10 points)*
+4. **Market Durations:** How long do properties typically stay on the market before selling or renting? *(10 points)*
+5. **Sales ROI:** What is the average profit expectation from upgrades and sales after mortgage payments? *(10 points)*
+6. **Rental ROI:** What is the average monthly income expectation from rentals after upgrades, mortgage, and taxes? *(10 points)*
 
-Finally, make sure that you have a paragraph or two summarizing your analysis and recommendations and back it with data from your research.
+Each question is assigned to team members for a collaborative effort and unified report.
+
+---
+
+## Data Sources
+
+We utilize reliable housing data from [Zillow Research](https://www.zillow.com/research/data/), specifically focusing on U.S. Housing Market Trends. This dataset includes:
+- Market trends
+- Sale prices
+- Inventory listings
+- Rental data
+
+---
+
+## Visualizations and Deliverables
+
+### Required Deliverables
+- **Plots, Charts, and Graphs:** Visualize market trends, ROI, and other key insights. *(Bonus points: 20 points)*
+- **Video Presentation:** A video where every team member identifies their contributions, including coding. *(20 points)*
+
+### Tools Used
+- **Jupyter Notebooks:** For coding, analysis, and presentation.
+- **Markdown:** To document and showcase results effectively.
+- **Visualization Libraries:** Matplotlib, Seaborn, Tableau (optional).
+
+---
+
+## Team Contributions
+
+### Team Members and Assigned Questions
+- **Matt:** Questions 1 & 3  
+- **Cristian:** Question 2  
+- **Tracy:** Question 4  
+- **David:** Question 5  
+- **Soad:** Question 6  
+
+---
+
+## Setup Instructions
+
+Follow these steps to replicate our analysis:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/real-estate-investment-analysis.git
+   cd real-estate-investment-analysis
+   ```
+
+2. **Install dependencies:**
+   Ensure you have Python installed with the required libraries:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Jupyter Notebook:**
+   ```sh
+   jupyter notebook
+   ```
+
+4. **Explore and Analyze:**
+   Open the provided notebooks to review code, visualizations, and insights.
+
+---
+
+## Final Submission
+
+### Link to the Project
+- [Canvas Final Project Submission](https://stthomas.instructure.com/courses/73679/assignments/1044849?module_item_id=3224639)
+
+### Submission Artifacts
+- Jupyter Notebooks with code, visualizations, and markdown.
+- Video presentation link.
+
+---
+
+## Additional Resources
+
+For more information on the U.S. housing market and project tools:
+- [Zillow Research Data](https://www.zillow.com/research/data/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Python Pandas Documentation](https://pandas.pydata.org/docs/)
+
+Thank you for exploring the **Canvas Final Project: Real Estate Investment Analysis**. We hope our insights help you make informed decisions! 
