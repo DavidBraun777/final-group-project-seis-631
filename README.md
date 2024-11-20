@@ -22,23 +22,17 @@ https://www.zillow.com/research/data/
 - Soad - Question 6
 
 
-- 1) 
-Show me the market trends to help me decide. Which US real-estate market is doing best overall. 10 points
-
-- 2) 
-Are the sale prices and inventory listing going up or down overall in the US? 10 points
-
-- 3) 
-Should I wait to invest or should I invest now and if so then where should I invest. (You could recommend more than one place)? 10 points
-
-- 4) 
-How long some of the real-estate stays on the market before they rent or sell? 10 points
-
-- 5) 
-How much average profit I could expect from my investments in terms of sale (% dollars) after paying mortgage. Calculate my ~ROI. 10 Points
-
-- 6) 
-How much average monthly income I could expect from my investments in terms of lease/rent after upgrading properties, paying mortgage, and paying taxes. Calculate my ~ROI. 10 Points
+1. Show me the market trends to help me decide. Which US real-estate market is doing best overall. 10 points
+ 
+2. Are the sale prices and inventory listing going up or down overall in the US? 10 points
+ 
+3. Should I wait to invest or should I invest now and if so then where should I invest. (You could recommend more than one place)? 10 points
+ 
+4. How long some of the real-estate stays on the market before they rent or sell? 10 points
+ 
+5. How much average profit I could expect from my investments in terms of sale (% dollars) after paying mortgage. Calculate my ~ROI. 10 Points
+ 
+6. How much average monthly income I could expect from my investments in terms of lease/rent after upgrading properties, paying mortgage, and paying taxes. Calculate my ~ROI. 10 Points
 
 You can use data from US Housing Market Trends from Zillow Data at Housing Data - Zillow ResearchLinks to an external site.Links to an external site.
 
