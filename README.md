@@ -14,7 +14,7 @@ https://stthomas.instructure.com/courses/73679/assignments/1044849?module_item_i
 # Housing Data
 https://www.zillow.com/research/data/
 
-### Divied Qustions
+### Divvied Qustions
 - Matt - Question 1 & 3
 - Cristian - Question 2
 - Tracy - Question 4
